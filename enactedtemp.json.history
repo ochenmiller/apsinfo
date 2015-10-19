@@ -1,0 +1,1467 @@
+Tue Oct 13 22:36:28 EDT 2015 :   "temp": "absolute", 
+  "snoozeBG": 364, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 202, 
+  "timestamp": "2015-10-13T22:36:27.105493", 
+  "duration": 30, 
+  "tick": -2
+}
+Tue Oct 13 23:36:08 EDT 2015 : {
+  "bg": 327, 
+  "temp": "absolute", 
+  "snoozeBG": 408, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, temp 5<5U/hr", 
+  "eventualBG": 309, 
+  "timestamp": "2015-10-13T23:36:07.984406", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Wed Oct 14 00:01:32 EDT 2015 : {
+  "bg": 339, 
+  "temp": "absolute", 
+  "snoozeBG": 439, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 182>100 but Delta -4 < BGI -7.3 / 2; cancel", 
+  "eventualBG": 182, 
+  "timestamp": "2015-10-14T00:01:26.549195", 
+  "duration": 0, 
+  "tick": -4
+}
+Wed Oct 14 01:01:11 EDT 2015 : {
+  "bg": 219, 
+  "temp": "absolute", 
+  "snoozeBG": 215, 
+  "recieved": true, 
+  "rate": 3.65, 
+  "reason": "Eventual BG 148>120, no temp, setting 3.633U/hr", 
+  "eventualBG": 148, 
+  "timestamp": "2015-10-14T01:01:10.120039", 
+  "duration": 30, 
+  "tick": "+1"
+}
+Wed Oct 14 01:05:54 EDT 2015 : {
+  "bg": 222, 
+  "temp": "absolute", 
+  "snoozeBG": 232, 
+  "recieved": true, 
+  "rate": 4.95, 
+  "reason": "Eventual BG 168>120, temp 3.65<4.967U/hr", 
+  "eventualBG": 168, 
+  "timestamp": "2015-10-14T01:05:54.630180", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Wed Oct 14 01:41:12 EDT 2015 : {
+  "bg": 240, 
+  "temp": "absolute", 
+  "snoozeBG": 225, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "Eventual BG 178>120, temp 4.95<5U/hr", 
+  "eventualBG": 178, 
+  "timestamp": "2015-10-14T01:41:12.235928", 
+  "duration": 30, 
+  "tick": "+0"
+}
+Wed Oct 14 02:46:02 EDT 2015 : {
+  "bg": 227, 
+  "temp": "absolute", 
+  "snoozeBG": 185, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 95<100-6, and temp 5 > basal 1.1", 
+  "eventualBG": 95, 
+  "timestamp": "2015-10-14T02:46:02.558697", 
+  "duration": 0, 
+  "tick": -6
+}
+Wed Oct 14 05:46:02 EDT 2015 : {
+  "bg": 100, 
+  "temp": "absolute", 
+  "snoozeBG": 98, 
+  "recieved": true, 
+  "rate": 0.275, 
+  "reason": "Eventual BG 98<100, no temp, setting 0.3U/hr", 
+  "eventualBG": 98, 
+  "timestamp": "2015-10-14T05:46:01.974388", 
+  "duration": 30, 
+  "tick": -1
+}
+Wed Oct 14 06:03:58 EDT 2015 : {
+  "bg": 97, 
+  "temp": "absolute", 
+  "snoozeBG": 94, 
+  "recieved": true, 
+  "rate": 0.05, 
+  "reason": "Eventual BG 94<100, no temp, setting 0.033U/hr", 
+  "eventualBG": 94, 
+  "timestamp": "2015-10-14T06:03:57.491506", 
+  "duration": 30, 
+  "tick": -2
+}
+Wed Oct 14 06:38:05 EDT 2015 : {
+  "bg": 88, 
+  "temp": "absolute", 
+  "snoozeBG": 99, 
+  "recieved": true, 
+  "rate": 0.325, 
+  "reason": "Eventual BG 99<100, no temp, setting 0.367U/hr", 
+  "eventualBG": 99, 
+  "timestamp": "2015-10-14T06:38:04.320187", 
+  "duration": 30, 
+  "tick": "+0"
+}
+Wed Oct 14 07:46:20 EDT 2015 : {
+  "bg": 160, 
+  "temp": "absolute", 
+  "snoozeBG": 208, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "Eventual BG 208>120, temp 0.325<5U/hr", 
+  "eventualBG": 208, 
+  "timestamp": "2015-10-14T07:46:19.423403", 
+  "duration": 30, 
+  "tick": "+14"
+}
+Wed Oct 14 08:20:58 EDT 2015 : {
+  "bg": 218, 
+  "temp": "absolute", 
+  "snoozeBG": 184, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "Eventual BG 184>120, temp 5<5U/hr", 
+  "eventualBG": 184, 
+  "timestamp": "2015-10-14T08:20:58.589646", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Wed Oct 14 08:30:55 EDT 2015 : {
+  "bg": 183, 
+  "temp": "absolute", 
+  "snoozeBG": 145, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG -35<100-39, and temp 5 > basal 1.1", 
+  "eventualBG": -35, 
+  "timestamp": "2015-10-14T08:30:53.921066", 
+  "duration": 0, 
+  "tick": -39
+}
+Wed Oct 14 08:36:18 EDT 2015 : {
+  "bg": 78, 
+  "temp": "absolute", 
+  "snoozeBG": -63, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG -243<100, no temp, setting -10.433U/hr", 
+  "eventualBG": -243, 
+  "timestamp": "2015-10-14T08:36:17.509769", 
+  "duration": 30, 
+  "tick": -105
+}
+Wed Oct 14 08:41:18 EDT 2015 : {
+  "bg": 78, 
+  "temp": "absolute", 
+  "snoozeBG": -59, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG -239<100, no temp, setting -10.167U/hr", 
+  "eventualBG": -239, 
+  "timestamp": "2015-10-14T08:41:18.218513", 
+  "duration": 30, 
+  "tick": -105
+}
+Wed Oct 14 20:41:55 EDT 2015 : {
+  "bg": 95, 
+  "temp": "absolute", 
+  "snoozeBG": 70, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG -73<100, no temp, setting -1.567U/hr", 
+  "eventualBG": -73, 
+  "timestamp": "2015-10-14T20:41:54.984580", 
+  "duration": 30, 
+  "tick": -5
+}
+Wed Oct 14 20:45:53 EDT 2015 : {
+  "bg": 92, 
+  "temp": "absolute", 
+  "snoozeBG": 178, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 40<100, but Delta -3 > BGI -12.52 / 2; cancel", 
+  "eventualBG": 40, 
+  "timestamp": "2015-10-14T20:45:53.584162", 
+  "duration": 0, 
+  "tick": -3
+}
+Wed Oct 14 22:39:07 EDT 2015 : {
+  "bg": 102, 
+  "temp": "absolute", 
+  "snoozeBG": 97, 
+  "recieved": true, 
+  "rate": 0.25, 
+  "reason": "Eventual BG 97<100, no temp, setting 0.233U/hr", 
+  "eventualBG": 97, 
+  "timestamp": "2015-10-14T22:39:07.271057", 
+  "duration": 30, 
+  "tick": "+1"
+}
+Wed Oct 14 22:40:54 EDT 2015 : {
+  "bg": 106, 
+  "temp": "absolute", 
+  "snoozeBG": 112, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 112>100 but Delta +4 < BGI 0.74 / 2; cancel", 
+  "eventualBG": 112, 
+  "timestamp": "2015-10-14T22:40:53.585693", 
+  "duration": 0, 
+  "tick": "+4"
+}
+Wed Oct 14 22:46:02 EDT 2015 : {
+  "bg": 108, 
+  "temp": "absolute", 
+  "snoozeBG": 122, 
+  "recieved": true, 
+  "rate": 1.875, 
+  "reason": "Eventual BG 122>120, no temp, setting 1.9U/hr", 
+  "eventualBG": 122, 
+  "timestamp": "2015-10-14T22:46:00.909845", 
+  "duration": 30, 
+  "tick": "+2"
+}
+Wed Oct 14 23:03:23 EDT 2015 : {
+  "bg": 114, 
+  "temp": "absolute", 
+  "snoozeBG": 125, 
+  "recieved": true, 
+  "rate": 2.1, 
+  "reason": "Eventual BG 125>120, temp 1.875<2.1U/hr", 
+  "eventualBG": 125, 
+  "timestamp": "2015-10-14T23:03:23.513545", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Wed Oct 14 23:06:14 EDT 2015 : {
+  "bg": 121, 
+  "temp": "absolute", 
+  "snoozeBG": 136, 
+  "recieved": true, 
+  "rate": 2.85, 
+  "reason": "Eventual BG 136>120, temp 2.1<2.833U/hr", 
+  "eventualBG": 136, 
+  "timestamp": "2015-10-14T23:06:14.739562", 
+  "duration": 30, 
+  "tick": "+7"
+}
+Wed Oct 14 23:26:06 EDT 2015 : {
+  "bg": 128, 
+  "temp": "absolute", 
+  "snoozeBG": 115, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "115 is in range. No temp required", 
+  "eventualBG": 115, 
+  "timestamp": "2015-10-14T23:26:05.846524", 
+  "duration": 0, 
+  "tick": "+1"
+}
+Thu Oct 15 00:20:48 EDT 2015 : {
+  "bg": 105, 
+  "temp": "absolute", 
+  "snoozeBG": 95, 
+  "recieved": true, 
+  "rate": 0.1, 
+  "reason": "Eventual BG 95<100, no temp, setting 0.1U/hr", 
+  "eventualBG": 95, 
+  "timestamp": "2015-10-15T00:20:47.885193", 
+  "duration": 30, 
+  "tick": -8
+}
+Thu Oct 15 00:26:11 EDT 2015 : {
+  "bg": 98, 
+  "temp": "absolute", 
+  "snoozeBG": 86, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 86<100, no temp, setting -0.5U/hr", 
+  "eventualBG": 86, 
+  "timestamp": "2015-10-15T00:26:11.352945", 
+  "duration": 30, 
+  "tick": -7
+}
+Thu Oct 15 00:30:52 EDT 2015 : {
+  "bg": 95, 
+  "temp": "absolute", 
+  "snoozeBG": 87, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 87<100, no temp, setting -0.433U/hr", 
+  "eventualBG": 87, 
+  "timestamp": "2015-10-15T00:30:52.560218", 
+  "duration": 30, 
+  "tick": -3
+}
+Thu Oct 15 00:40:55 EDT 2015 : {
+  "bg": 102, 
+  "temp": "absolute", 
+  "snoozeBG": 121, 
+  "recieved": true, 
+  "rate": 1.85, 
+  "reason": "Eventual BG 121>120, no temp, setting 1.833U/hr", 
+  "eventualBG": 121, 
+  "timestamp": "2015-10-15T00:40:55.240413", 
+  "duration": 30, 
+  "tick": "+9"
+}
+Thu Oct 15 00:46:10 EDT 2015 : {
+  "bg": 107, 
+  "temp": "absolute", 
+  "snoozeBG": 131, 
+  "recieved": true, 
+  "rate": 2.5, 
+  "reason": "Eventual BG 131>120, temp 1.85<2.5U/hr", 
+  "eventualBG": 131, 
+  "timestamp": "2015-10-15T00:46:10.338412", 
+  "duration": 30, 
+  "tick": "+5"
+}
+Thu Oct 15 00:50:51 EDT 2015 : {
+  "bg": 109, 
+  "temp": "absolute", 
+  "snoozeBG": 135, 
+  "recieved": true, 
+  "rate": 2.75, 
+  "reason": "Eventual BG 135>120, temp 2.5<2.767U/hr", 
+  "eventualBG": 135, 
+  "timestamp": "2015-10-15T00:50:51.548430", 
+  "duration": 30, 
+  "tick": "+2"
+}
+Thu Oct 15 00:56:04 EDT 2015 : {
+  "bg": 109, 
+  "temp": "absolute", 
+  "snoozeBG": 120, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 120>100 but Delta +0 < BGI 0.21 / 2; cancel", 
+  "eventualBG": 120, 
+  "timestamp": "2015-10-15T00:56:04.209507", 
+  "duration": 0, 
+  "tick": "+0"
+}
+Thu Oct 15 01:50:49 EDT 2015 : {
+  "bg": 104, 
+  "temp": "absolute", 
+  "snoozeBG": 121, 
+  "recieved": true, 
+  "rate": 1.85, 
+  "reason": "Eventual BG 121>120, no temp, setting 1.833U/hr", 
+  "eventualBG": 121, 
+  "timestamp": "2015-10-15T01:50:49.251740", 
+  "duration": 30, 
+  "tick": "+4"
+}
+Thu Oct 15 01:56:11 EDT 2015 : {
+  "bg": 107, 
+  "temp": "absolute", 
+  "snoozeBG": 127, 
+  "recieved": true, 
+  "rate": 2.25, 
+  "reason": "Eventual BG 127>120, temp 1.85<2.233U/hr", 
+  "eventualBG": 127, 
+  "timestamp": "2015-10-15T01:56:09.613350", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Thu Oct 15 02:00:48 EDT 2015 : {
+  "bg": 112, 
+  "temp": "absolute", 
+  "snoozeBG": 131, 
+  "recieved": true, 
+  "rate": 2.5, 
+  "reason": "Eventual BG 131>120, temp 2.25<2.5U/hr", 
+  "eventualBG": 131, 
+  "timestamp": "2015-10-15T02:00:47.899781", 
+  "duration": 30, 
+  "tick": "+5"
+}
+Thu Oct 15 02:13:04 EDT 2015 : {
+  "bg": 117, 
+  "temp": "absolute", 
+  "snoozeBG": 133, 
+  "recieved": true, 
+  "rate": 2.625, 
+  "reason": "Eventual BG 133>120, temp 2.5<2.633U/hr", 
+  "eventualBG": 133, 
+  "timestamp": "2015-10-15T02:13:02.619049", 
+  "duration": 30, 
+  "tick": "+2"
+}
+Thu Oct 15 02:16:15 EDT 2015 : {
+  "bg": 118, 
+  "temp": "absolute", 
+  "snoozeBG": 117, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "117 is in range. No temp required", 
+  "eventualBG": 117, 
+  "timestamp": "2015-10-15T02:16:15.718842", 
+  "duration": 0, 
+  "tick": "+1"
+}
+Thu Oct 15 03:56:06 EDT 2015 : {
+  "bg": 113, 
+  "temp": "absolute", 
+  "snoozeBG": 123, 
+  "recieved": true, 
+  "rate": 1.95, 
+  "reason": "Eventual BG 123>120, no temp, setting 1.967U/hr", 
+  "eventualBG": 123, 
+  "timestamp": "2015-10-15T03:56:05.441874", 
+  "duration": 30, 
+  "tick": "+2"
+}
+Thu Oct 15 04:00:52 EDT 2015 : {
+  "bg": 110, 
+  "temp": "absolute", 
+  "snoozeBG": 114, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 114>100 but Delta -3 < BGI 0.35 / 2; cancel", 
+  "eventualBG": 114, 
+  "timestamp": "2015-10-15T04:00:52.674554", 
+  "duration": 0, 
+  "tick": -3
+}
+Thu Oct 15 04:06:27 EDT 2015 : {
+  "bg": 113, 
+  "temp": "absolute", 
+  "snoozeBG": 120, 
+  "recieved": true, 
+  "rate": 1.75, 
+  "reason": "Eventual BG 120>120, no temp, setting 1.767U/hr", 
+  "eventualBG": 120, 
+  "timestamp": "2015-10-15T04:06:27.352441", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Thu Oct 15 04:51:17 EDT 2015 : {
+  "bg": 103, 
+  "temp": "absolute", 
+  "snoozeBG": 91, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 91<100, no temp, setting -0.167U/hr", 
+  "eventualBG": 91, 
+  "timestamp": "2015-10-15T04:51:16.407596", 
+  "duration": 30, 
+  "tick": -7
+}
+Thu Oct 15 04:56:13 EDT 2015 : {
+  "bg": 100, 
+  "temp": "absolute", 
+  "snoozeBG": 90, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 90<100, no temp, setting -0.233U/hr", 
+  "eventualBG": 90, 
+  "timestamp": "2015-10-15T04:56:13.297958", 
+  "duration": 30, 
+  "tick": -3
+}
+Fri Oct 16 00:31:11 EDT 2015 : {
+  "bg": 105, 
+  "temp": "absolute", 
+  "snoozeBG": 98, 
+  "recieved": true, 
+  "rate": 0.275, 
+  "reason": "Eventual BG 98<100, no temp, setting 0.3U/hr", 
+  "eventualBG": 98, 
+  "timestamp": "2015-10-16T00:31:09.600212", 
+  "duration": 30, 
+  "tick": -3
+}
+Fri Oct 16 00:45:52 EDT 2015 : {
+  "bg": 100, 
+  "temp": "absolute", 
+  "snoozeBG": 101, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 101>100 but Delta -1 < BGI 0.04 / 2; cancel", 
+  "eventualBG": 101, 
+  "timestamp": "2015-10-16T00:45:51.317232", 
+  "duration": 0, 
+  "tick": -1
+}
+Fri Oct 16 01:46:06 EDT 2015 : {
+  "bg": 86, 
+  "temp": "absolute", 
+  "snoozeBG": 97, 
+  "recieved": true, 
+  "rate": 0.25, 
+  "reason": "Eventual BG 97<100, no temp, setting 0.233U/hr", 
+  "eventualBG": 97, 
+  "timestamp": "2015-10-16T01:46:06.140126", 
+  "duration": 30, 
+  "tick": -2
+}
+Fri Oct 16 01:51:12 EDT 2015 : {
+  "bg": 84, 
+  "temp": "absolute", 
+  "snoozeBG": 93, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 93<100, no temp, setting -0.033U/hr", 
+  "eventualBG": 93, 
+  "timestamp": "2015-10-16T01:51:11.520845", 
+  "duration": 30, 
+  "tick": -2
+}
+Fri Oct 16 01:55:54 EDT 2015 : {
+  "bg": 79, 
+  "temp": "absolute", 
+  "snoozeBG": 85, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 85<100, no temp, setting -0.567U/hr", 
+  "eventualBG": 85, 
+  "timestamp": "2015-10-16T01:55:53.975578", 
+  "duration": 30, 
+  "tick": -5
+}
+Fri Oct 16 02:01:16 EDT 2015 : {
+  "bg": 75, 
+  "temp": "absolute", 
+  "snoozeBG": 81, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 81<100, no temp, setting -0.833U/hr", 
+  "eventualBG": 81, 
+  "timestamp": "2015-10-16T02:01:15.347744", 
+  "duration": 30, 
+  "tick": -4
+}
+Fri Oct 16 02:06:25 EDT 2015 : {
+  "bg": 75, 
+  "temp": "absolute", 
+  "snoozeBG": 85, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 85<100, no temp, setting -0.567U/hr", 
+  "eventualBG": 85, 
+  "timestamp": "2015-10-16T02:06:24.933526", 
+  "duration": 30, 
+  "tick": "+0"
+}
+Fri Oct 16 02:21:15 EDT 2015 : {
+  "bg": 78, 
+  "temp": "absolute", 
+  "snoozeBG": 104, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "104 is in range. No temp required", 
+  "eventualBG": 104, 
+  "timestamp": "2015-10-16T02:21:13.006766", 
+  "duration": 0, 
+  "tick": "+2"
+}
+Fri Oct 16 02:45:52 EDT 2015 : {
+  "bg": 86, 
+  "temp": "absolute", 
+  "snoozeBG": 121, 
+  "recieved": true, 
+  "rate": 1.85, 
+  "reason": "Eventual BG 121>120, no temp, setting 1.833U/hr", 
+  "eventualBG": 121, 
+  "timestamp": "2015-10-16T02:45:51.894185", 
+  "duration": 30, 
+  "tick": "+2"
+}
+Fri Oct 16 03:11:07 EDT 2015 : {
+  "bg": 94, 
+  "temp": "absolute", 
+  "snoozeBG": 118, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 118>100 but Delta +0 < BGI 1.69 / 2; cancel", 
+  "eventualBG": 118, 
+  "timestamp": "2015-10-16T03:11:07.403482", 
+  "duration": 0, 
+  "tick": "+0"
+}
+Fri Oct 16 03:45:52 EDT 2015 : {
+  "bg": 83, 
+  "temp": "absolute", 
+  "snoozeBG": 99, 
+  "recieved": true, 
+  "rate": 0.325, 
+  "reason": "Eventual BG 99<100, no temp, setting 0.367U/hr", 
+  "eventualBG": 99, 
+  "timestamp": "2015-10-16T03:45:52.631803", 
+  "duration": 30, 
+  "tick": -4
+}
+Fri Oct 16 03:51:16 EDT 2015 : {
+  "bg": 80, 
+  "temp": "absolute", 
+  "snoozeBG": 93, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 93<100, no temp, setting -0.033U/hr", 
+  "eventualBG": 93, 
+  "timestamp": "2015-10-16T03:51:15.103192", 
+  "duration": 30, 
+  "tick": -3
+}
+Fri Oct 16 11:41:39 EDT 2015 : {
+  "requested": {
+    "duration": 30, 
+    "rate": 0.15, 
+    "temp": "absolute"
+  }, 
+  "bg": 122, 
+  "temp": "absolute", 
+  "snoozeBG": 96, 
+  "timestamp": "2015-10-16T11:41:39.234806", 
+  "rate": 0.0, 
+  "reason": "Eventual BG 96<100, no temp, setting 0.167U/hr", 
+  "eventualBG": 96, 
+  "recieved": false, 
+  "duration": 0, 
+  "tick": -16
+}
+Fri Oct 16 11:45:56 EDT 2015 : {
+  "bg": 124, 
+  "temp": "absolute", 
+  "snoozeBG": 151, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 16<100+2, and temp 0 < basal 1.1", 
+  "eventualBG": 16, 
+  "timestamp": "2015-10-16T11:45:56.051982", 
+  "duration": 0, 
+  "tick": "+2"
+}
+Fri Oct 16 12:01:05 EDT 2015 : {
+  "bg": 166, 
+  "temp": "absolute", 
+  "snoozeBG": 262, 
+  "recieved": true, 
+  "rate": 2.25, 
+  "reason": "Eventual BG 127>120, no temp, setting 2.233U/hr", 
+  "eventualBG": 127, 
+  "timestamp": "2015-10-16T12:01:04.153310", 
+  "duration": 30, 
+  "tick": "+27"
+}
+Fri Oct 16 12:06:42 EDT 2015 : {
+  "bg": 187, 
+  "temp": "absolute", 
+  "snoozeBG": 305, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "Eventual BG 170>120, temp 2.25<5U/hr", 
+  "eventualBG": 170, 
+  "timestamp": "2015-10-16T12:06:42.242966", 
+  "duration": 30, 
+  "tick": "+21"
+}
+Fri Oct 16 12:21:09 EDT 2015 : {
+  "bg": 210, 
+  "temp": "absolute", 
+  "snoozeBG": 202, 
+  "recieved": true, 
+  "rate": 2.7, 
+  "reason": "18@5 > req 0.8U", 
+  "eventualBG": 134, 
+  "timestamp": "2015-10-16T12:21:06.974807", 
+  "duration": 30, 
+  "tick": "+2"
+}
+Fri Oct 16 12:31:07 EDT 2015 : {
+  "bg": 206, 
+  "temp": "absolute", 
+  "snoozeBG": 170, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 106>100 but Delta -5 < BGI -3.68 / 2; cancel", 
+  "eventualBG": 106, 
+  "timestamp": "2015-10-16T12:31:07.339170", 
+  "duration": 0, 
+  "tick": -5
+}
+Fri Oct 16 13:58:30 EDT 2015 : {
+  "bg": 130, 
+  "temp": "absolute", 
+  "snoozeBG": 154, 
+  "recieved": true, 
+  "rate": 1.75, 
+  "reason": "Eventual BG 120>120, no temp, setting 1.767U/hr", 
+  "eventualBG": 120, 
+  "timestamp": "2015-10-16T13:58:30.343120", 
+  "duration": 30, 
+  "tick": -1
+}
+Fri Oct 16 14:09:43 EDT 2015 : {
+  "bg": 121, 
+  "temp": "absolute", 
+  "snoozeBG": 140, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 113>100 but Delta -4 < BGI -2.07 / 2; cancel", 
+  "eventualBG": 113, 
+  "timestamp": "2015-10-16T14:09:43.120537", 
+  "duration": 0, 
+  "tick": -4
+}
+Fri Oct 16 17:24:00 EDT 2015 : {
+  "bg": 394, 
+  "temp": "absolute", 
+  "snoozeBG": 420, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 420, 
+  "timestamp": "2015-10-16T17:23:58.363128", 
+  "duration": 30, 
+  "tick": "+5"
+}
+Fri Oct 16 20:26:29 EDT 2015 : {
+  "bg": 265, 
+  "temp": "absolute", 
+  "snoozeBG": 302, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, temp 5<5U/hr", 
+  "eventualBG": 302, 
+  "timestamp": "2015-10-16T20:26:29.345187", 
+  "duration": 30, 
+  "tick": "+0"
+}
+Fri Oct 16 20:36:05 EDT 2015 : {
+  "bg": 264, 
+  "temp": "absolute", 
+  "snoozeBG": 245, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 245>100 but Delta -1 < BGI -0.06 / 2; cancel", 
+  "eventualBG": 245, 
+  "timestamp": "2015-10-16T20:36:02.317231", 
+  "duration": 0, 
+  "tick": -1
+}
+Fri Oct 16 20:41:04 EDT 2015 : {
+  "bg": 267, 
+  "temp": "absolute", 
+  "snoozeBG": 254, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 254, 
+  "timestamp": "2015-10-16T20:41:04.035051", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Fri Oct 16 20:50:52 EDT 2015 : {
+  "bg": 269, 
+  "temp": "absolute", 
+  "snoozeBG": 261, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 261>100 but Delta -1 < BGI -0.23 / 2; cancel", 
+  "eventualBG": 261, 
+  "timestamp": "2015-10-16T20:50:52.154420", 
+  "duration": 0, 
+  "tick": -1
+}
+Fri Oct 16 21:04:49 EDT 2015 : {
+  "bg": 271, 
+  "temp": "absolute", 
+  "snoozeBG": 268, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 268, 
+  "timestamp": "2015-10-16T21:04:45.829116", 
+  "duration": 30, 
+  "tick": "+3"
+}
+Fri Oct 16 21:16:07 EDT 2015 : {
+  "bg": 266, 
+  "temp": "absolute", 
+  "snoozeBG": 260, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 260>100 but Delta -5 < BGI -0.41 / 2; cancel", 
+  "eventualBG": 260, 
+  "timestamp": "2015-10-16T21:16:06.045644", 
+  "duration": 0, 
+  "tick": -5
+}
+Sat Oct 17 02:01:02 EDT 2015 : {
+  "bg": 106, 
+  "temp": "absolute", 
+  "snoozeBG": 97, 
+  "recieved": true, 
+  "rate": 0.25, 
+  "reason": "Eventual BG 97<100, no temp, setting 0.233U/hr", 
+  "eventualBG": 97, 
+  "timestamp": "2015-10-17T02:01:01.904762", 
+  "duration": 30, 
+  "tick": -3
+}
+Sat Oct 17 02:15:54 EDT 2015 : {
+  "bg": 100, 
+  "temp": "absolute", 
+  "snoozeBG": 101, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 101>100 but Delta -2 < BGI 0.04 / 2; cancel", 
+  "eventualBG": 101, 
+  "timestamp": "2015-10-17T02:15:54.483153", 
+  "duration": 0, 
+  "tick": -2
+}
+Sat Oct 17 03:05:50 EDT 2015 : {
+  "bg": 84, 
+  "temp": "absolute", 
+  "snoozeBG": 98, 
+  "recieved": true, 
+  "rate": 0.275, 
+  "reason": "Eventual BG 98<100, no temp, setting 0.3U/hr", 
+  "eventualBG": 98, 
+  "timestamp": "2015-10-17T03:05:49.539062", 
+  "duration": 30, 
+  "tick": -1
+}
+Sat Oct 17 03:15:57 EDT 2015 : {
+  "bg": 81, 
+  "temp": "absolute", 
+  "snoozeBG": 96, 
+  "recieved": true, 
+  "rate": 0.125, 
+  "reason": "Eventual BG 96<100, no temp, setting 0.167U/hr", 
+  "eventualBG": 96, 
+  "timestamp": "2015-10-17T03:15:56.829506", 
+  "duration": 30, 
+  "tick": -2
+}
+Sat Oct 17 03:21:18 EDT 2015 : {
+  "bg": 82, 
+  "temp": "absolute", 
+  "snoozeBG": 101, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 101>100 but Delta +1 < BGI 0.99 / 2; cancel", 
+  "eventualBG": 101, 
+  "timestamp": "2015-10-17T03:21:17.443814", 
+  "duration": 0, 
+  "tick": "+1"
+}
+Sat Oct 17 03:47:31 EDT 2015 : {
+  "bg": 77, 
+  "temp": "absolute", 
+  "snoozeBG": 98, 
+  "recieved": true, 
+  "rate": 0.275, 
+  "reason": "Eventual BG 98<100, no temp, setting 0.3U/hr", 
+  "eventualBG": 98, 
+  "timestamp": "2015-10-17T03:47:30.591392", 
+  "duration": 30, 
+  "tick": -1
+}
+Sat Oct 17 05:07:14 EDT 2015 : {
+  "bg": 85, 
+  "temp": "absolute", 
+  "snoozeBG": 83, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 83<100, no temp, setting -0.7U/hr", 
+  "eventualBG": 83, 
+  "timestamp": "2015-10-17T05:07:13.839754", 
+  "duration": 30, 
+  "tick": -4
+}
+Sat Oct 17 05:10:54 EDT 2015 : {
+  "bg": 83, 
+  "temp": "absolute", 
+  "snoozeBG": 81, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 81<100, no temp, setting -0.833U/hr", 
+  "eventualBG": 81, 
+  "timestamp": "2015-10-17T05:10:53.778835", 
+  "duration": 30, 
+  "tick": -2
+}
+Sat Oct 17 05:16:31 EDT 2015 : {
+  "bg": 83, 
+  "temp": "absolute", 
+  "snoozeBG": 84, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 84<100, no temp, setting -0.633U/hr", 
+  "eventualBG": 84, 
+  "timestamp": "2015-10-17T05:16:29.660682", 
+  "duration": 30, 
+  "tick": "+0"
+}
+Sat Oct 17 05:20:57 EDT 2015 : {
+  "bg": 92, 
+  "temp": "absolute", 
+  "snoozeBG": 108, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "108 is in range. No temp required", 
+  "eventualBG": 108, 
+  "timestamp": "2015-10-17T05:20:57.221485", 
+  "duration": 0, 
+  "tick": "+9"
+}
+Sat Oct 17 05:26:17 EDT 2015 : {
+  "bg": 100, 
+  "temp": "absolute", 
+  "snoozeBG": 129, 
+  "recieved": true, 
+  "rate": 2.35, 
+  "reason": "Eventual BG 129>120, no temp, setting 2.367U/hr", 
+  "eventualBG": 129, 
+  "timestamp": "2015-10-17T05:26:17.747652", 
+  "duration": 30, 
+  "tick": "+8"
+}
+Sat Oct 17 05:31:06 EDT 2015 : {
+  "bg": 105, 
+  "temp": "absolute", 
+  "snoozeBG": 139, 
+  "recieved": true, 
+  "rate": 3.025, 
+  "reason": "Eventual BG 139>120, temp 2.35<3.033U/hr", 
+  "eventualBG": 139, 
+  "timestamp": "2015-10-17T05:31:04.379295", 
+  "duration": 30, 
+  "tick": "+5"
+}
+Sat Oct 17 05:40:56 EDT 2015 : {
+  "bg": 108, 
+  "temp": "absolute", 
+  "snoozeBG": 117, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 117>100 but Delta +0 < BGI 0.7 / 2; cancel", 
+  "eventualBG": 117, 
+  "timestamp": "2015-10-17T05:40:56.672277", 
+  "duration": 0, 
+  "tick": "+0"
+}
+Sat Oct 17 06:04:02 EDT 2015 : {
+  "bg": 96, 
+  "temp": "absolute", 
+  "snoozeBG": 96, 
+  "recieved": true, 
+  "rate": 0.125, 
+  "reason": "Eventual BG 96<100, no temp, setting 0.167U/hr", 
+  "eventualBG": 96, 
+  "timestamp": "2015-10-17T06:04:01.935352", 
+  "duration": 30, 
+  "tick": -6
+}
+Sat Oct 17 06:32:08 EDT 2015 : {
+  "bg": 84, 
+  "temp": "absolute", 
+  "snoozeBG": 84, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 84<100, no temp, setting -0.633U/hr", 
+  "eventualBG": 84, 
+  "timestamp": "2015-10-17T06:32:08.030204", 
+  "duration": 30, 
+  "tick": -2
+}
+Sat Oct 17 06:36:01 EDT 2015 : {
+  "bg": 82, 
+  "temp": "absolute", 
+  "snoozeBG": 84, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 84<100, no temp, setting -0.633U/hr", 
+  "eventualBG": 84, 
+  "timestamp": "2015-10-17T06:36:01.067137", 
+  "duration": 30, 
+  "tick": -2
+}
+Sat Oct 17 06:41:15 EDT 2015 : {
+  "bg": 81, 
+  "temp": "absolute", 
+  "snoozeBG": 87, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 87<100, no temp, setting -0.433U/hr", 
+  "eventualBG": 87, 
+  "timestamp": "2015-10-17T06:41:13.880743", 
+  "duration": 30, 
+  "tick": -1
+}
+Sat Oct 17 06:46:46 EDT 2015 : {
+  "bg": 81, 
+  "temp": "absolute", 
+  "snoozeBG": 92, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 92<100, no temp, setting -0.1U/hr", 
+  "eventualBG": 92, 
+  "timestamp": "2015-10-17T06:46:45.239209", 
+  "duration": 30, 
+  "tick": "+0"
+}
+Sat Oct 17 06:55:54 EDT 2015 : {
+  "bg": 84, 
+  "temp": "absolute", 
+  "snoozeBG": 105, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "105 is in range. No temp required", 
+  "eventualBG": 105, 
+  "timestamp": "2015-10-17T06:55:54.131531", 
+  "duration": 0, 
+  "tick": "+2"
+}
+Sat Oct 17 07:32:14 EDT 2015 : {
+  "bg": 93, 
+  "temp": "absolute", 
+  "snoozeBG": 120, 
+  "recieved": true, 
+  "rate": 1.75, 
+  "reason": "Eventual BG 120>120, no temp, setting 1.767U/hr", 
+  "eventualBG": 120, 
+  "timestamp": "2015-10-17T07:32:13.888045", 
+  "duration": 30, 
+  "tick": "+1"
+}
+Sat Oct 17 07:35:49 EDT 2015 : {
+  "bg": 97, 
+  "temp": "absolute", 
+  "snoozeBG": 128, 
+  "recieved": true, 
+  "rate": 2.275, 
+  "reason": "Eventual BG 128>120, temp 1.75<2.3U/hr", 
+  "eventualBG": 128, 
+  "timestamp": "2015-10-17T07:35:49.611221", 
+  "duration": 30, 
+  "tick": "+4"
+}
+Sat Oct 17 07:41:17 EDT 2015 : {
+  "bg": 102, 
+  "temp": "absolute", 
+  "snoozeBG": 131, 
+  "recieved": true, 
+  "rate": 2.5, 
+  "reason": "Eventual BG 131>120, temp 2.275<2.5U/hr", 
+  "eventualBG": 131, 
+  "timestamp": "2015-10-17T07:41:13.308910", 
+  "duration": 30, 
+  "tick": "+5"
+}
+Sat Oct 17 07:57:32 EDT 2015 : {
+  "bg": 105, 
+  "temp": "absolute", 
+  "snoozeBG": 113, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 113>100 but Delta +0 < BGI 1.43 / 2; cancel", 
+  "eventualBG": 113, 
+  "timestamp": "2015-10-17T07:57:31.613107", 
+  "duration": 0, 
+  "tick": "+0"
+}
+Sat Oct 17 08:42:03 EDT 2015 : {
+  "bg": 89, 
+  "temp": "absolute", 
+  "snoozeBG": 93, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 93<100, no temp, setting -0.033U/hr", 
+  "eventualBG": 93, 
+  "timestamp": "2015-10-17T08:42:03.257245", 
+  "duration": 30, 
+  "tick": -8
+}
+Sat Oct 17 09:01:37 EDT 2015 : {
+  "bg": 71, 
+  "temp": "absolute", 
+  "snoozeBG": 66, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 66<100, no temp, setting -1.833U/hr", 
+  "eventualBG": 66, 
+  "timestamp": "2015-10-17T09:01:32.892870", 
+  "duration": 30, 
+  "tick": -4
+}
+Sat Oct 17 09:06:23 EDT 2015 : {
+  "bg": 68, 
+  "temp": "absolute", 
+  "snoozeBG": 69, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "BG 68<70", 
+  "eventualBG": 69, 
+  "timestamp": "2015-10-17T09:06:21.748517", 
+  "duration": 30, 
+  "tick": -3
+}
+Sat Oct 17 09:10:52 EDT 2015 : {
+  "bg": 62, 
+  "temp": "absolute", 
+  "snoozeBG": 61, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "BG 62<70", 
+  "eventualBG": 61, 
+  "timestamp": "2015-10-17T09:10:52.035751", 
+  "duration": 30, 
+  "tick": -6
+}
+Sat Oct 17 09:56:22 EDT 2015 : {
+  "bg": 80, 
+  "temp": "absolute", 
+  "snoozeBG": 92, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 92<100, no temp, setting -0.1U/hr", 
+  "eventualBG": 92, 
+  "timestamp": "2015-10-17T09:56:21.182854", 
+  "duration": 30, 
+  "tick": -1
+}
+Sat Oct 17 10:57:13 EDT 2015 : {
+  "bg": 228, 
+  "temp": "absolute", 
+  "snoozeBG": 323, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 323, 
+  "timestamp": "2015-10-17T10:57:10.078631", 
+  "duration": 30, 
+  "tick": "+29"
+}
+Sat Oct 17 17:18:37 EDT 2015 : {
+  "bg": 125, 
+  "temp": "absolute", 
+  "snoozeBG": 139, 
+  "recieved": true, 
+  "rate": 3.025, 
+  "reason": "Eventual BG 139>120, temp 5<3.033U/hr", 
+  "eventualBG": 139, 
+  "timestamp": "2015-10-17T17:18:36.703400", 
+  "duration": 30, 
+  "tick": "+6"
+}
+Sat Oct 17 17:33:08 EDT 2015 : {
+  "bg": 159, 
+  "temp": "absolute", 
+  "snoozeBG": 180, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "Eventual BG 180>120, temp 3.025<5U/hr", 
+  "eventualBG": 180, 
+  "timestamp": "2015-10-17T17:32:59.462628", 
+  "duration": 30, 
+  "tick": "+12"
+}
+Sat Oct 17 18:11:08 EDT 2015 : {
+  "bg": 250, 
+  "temp": "absolute", 
+  "snoozeBG": 267, 
+  "recieved": true, 
+  "rate": 2.525, 
+  "reason": "Eventual BG 132>120, temp 5<2.567U/hr", 
+  "eventualBG": 132, 
+  "timestamp": "2015-10-17T18:11:07.161566", 
+  "duration": 30, 
+  "tick": "+6"
+}
+Sun Oct 18 00:06:33 EDT 2015 : {
+  "bg": 354, 
+  "temp": "absolute", 
+  "snoozeBG": 378, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, temp 2.525<5U/hr", 
+  "eventualBG": 284, 
+  "timestamp": "2015-10-18T00:06:33.245223", 
+  "duration": 30, 
+  "tick": -1
+}
+Sun Oct 18 00:36:05 EDT 2015 : {
+  "bg": 363, 
+  "temp": "absolute", 
+  "snoozeBG": 345, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 197>100 but Delta -5 < BGI -9.2 / 2; cancel", 
+  "eventualBG": 197, 
+  "timestamp": "2015-10-18T00:36:05.073460", 
+  "duration": 0, 
+  "tick": -5
+}
+Sun Oct 18 01:01:34 EDT 2015 : {
+  "bg": 333, 
+  "temp": "absolute", 
+  "snoozeBG": 328, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 207, 
+  "timestamp": "2015-10-18T01:01:34.412216", 
+  "duration": 30, 
+  "tick": -4
+}
+Sun Oct 18 01:26:00 EDT 2015 : {
+  "bg": 295, 
+  "temp": "absolute", 
+  "snoozeBG": 327, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 139>100 but Delta -32 < BGI -10.67 / 2; cancel", 
+  "eventualBG": 139, 
+  "timestamp": "2015-10-18T01:25:54.510421", 
+  "duration": 0, 
+  "tick": -32
+}
+Sun Oct 18 01:41:22 EDT 2015 : {
+  "bg": 296, 
+  "temp": "absolute", 
+  "snoozeBG": 378, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "Eventual BG 204>120, no temp, setting 5U/hr", 
+  "eventualBG": 204, 
+  "timestamp": "2015-10-18T01:41:18.492112", 
+  "duration": 30, 
+  "tick": -1
+}
+Sun Oct 18 02:01:08 EDT 2015 : {
+  "bg": 290, 
+  "temp": "absolute", 
+  "snoozeBG": 301, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 219>100 but Delta -5 < BGI -7.54 / 2; cancel", 
+  "eventualBG": 219, 
+  "timestamp": "2015-10-18T02:01:06.455027", 
+  "duration": 0, 
+  "tick": -5
+}
+Sun Oct 18 02:05:49 EDT 2015 : {
+  "bg": 289, 
+  "temp": "absolute", 
+  "snoozeBG": 305, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "Eventual BG 226>120, no temp, setting 5U/hr", 
+  "eventualBG": 226, 
+  "timestamp": "2015-10-18T02:05:46.035492", 
+  "duration": 30, 
+  "tick": -1
+}
+Sun Oct 18 02:31:08 EDT 2015 : {
+  "bg": 287, 
+  "temp": "absolute", 
+  "snoozeBG": 323, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 259>100 but Delta -5 < BGI -6.47 / 2; cancel", 
+  "eventualBG": 259, 
+  "timestamp": "2015-10-18T02:31:07.967522", 
+  "duration": 0, 
+  "tick": -5
+}
+Sun Oct 18 02:36:08 EDT 2015 : {
+  "bg": 293, 
+  "temp": "absolute", 
+  "snoozeBG": 338, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 277, 
+  "timestamp": "2015-10-18T02:36:07.905052", 
+  "duration": 30, 
+  "tick": "+6"
+}
+Sun Oct 18 02:51:06 EDT 2015 : {
+  "bg": 285, 
+  "temp": "absolute", 
+  "snoozeBG": 322, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 269>100 but Delta -4 < BGI -4.32 / 2; cancel", 
+  "eventualBG": 269, 
+  "timestamp": "2015-10-18T02:51:06.278716", 
+  "duration": 0, 
+  "tick": -4
+}
+Sun Oct 18 03:27:41 EDT 2015 : {
+  "bg": 284, 
+  "temp": "absolute", 
+  "snoozeBG": 324, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 302, 
+  "timestamp": "2015-10-18T03:27:40.916456", 
+  "duration": 30, 
+  "tick": "+1"
+}
+Sun Oct 18 03:31:06 EDT 2015 : {
+  "bg": 281, 
+  "temp": "absolute", 
+  "snoozeBG": 317, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 296>100 but Delta -3 < BGI -0.89 / 2; cancel", 
+  "eventualBG": 296, 
+  "timestamp": "2015-10-18T03:31:06.083928", 
+  "duration": 0, 
+  "tick": -3
+}
+Sun Oct 18 03:36:05 EDT 2015 : {
+  "bg": 282, 
+  "temp": "absolute", 
+  "snoozeBG": 319, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 299, 
+  "timestamp": "2015-10-18T03:36:03.646327", 
+  "duration": 30, 
+  "tick": "+1"
+}
+Sun Oct 18 03:41:07 EDT 2015 : {
+  "bg": 276, 
+  "temp": "absolute", 
+  "snoozeBG": 305, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 286>100 but Delta -6 < BGI -0.42 / 2; cancel", 
+  "eventualBG": 286, 
+  "timestamp": "2015-10-18T03:41:07.190409", 
+  "duration": 0, 
+  "tick": -6
+}
+Sun Oct 18 04:45:58 EDT 2015 : {
+  "bg": 259, 
+  "temp": "absolute", 
+  "snoozeBG": 289, 
+  "recieved": true, 
+  "rate": 5.0, 
+  "reason": "max_iob 5, no temp, setting 5U/hr", 
+  "eventualBG": 289, 
+  "timestamp": "2015-10-18T04:45:58.059848", 
+  "duration": 30, 
+  "tick": "+16"
+}
+Sun Oct 18 06:05:54 EDT 2015 : {
+  "bg": 203, 
+  "temp": "absolute", 
+  "snoozeBG": 161, 
+  "recieved": true, 
+  "rate": 0.0, 
+  "reason": "Eventual BG 91<100-15, and temp 5 > basal 1.1", 
+  "eventualBG": 91, 
+  "timestamp": "2015-10-18T06:05:54.185911", 
+  "duration": 0, 
+  "tick": -15
+}
+Sun Oct 18 06:21:05 EDT 2015 : {
+  "bg": 150, 
+  "temp": "absolute", 
+  "snoozeBG": 99, 
+  "recieved": true, 
+  "rate": 0.325, 
+  "reason": "Eventual BG 36<100, no temp, setting 0.367U/hr", 
+  "eventualBG": 36, 
+  "timestamp": "2015-10-18T06:21:04.293657", 
+  "duration": 30, 
+  "tick": -15
+}
+Sun Oct 18 12:31:06 EDT 2015 : enactedtemp.json : {
+  "bg": 161, 
+  "temp": "absolute", 
+  "snoozeBG": 162, 
+  "recieved": true, 
+  "rate": 4.525, 
+  "reason": "Eventual BG 162>120, temp 0.125<4.567U/hr", 
+  "eventualBG": 162, 
+  "timestamp": "2015-10-18T12:31:04.491399", 
+  "duration": 30, 
+  "tick": "+1"
+}
+Sun Oct 18 13:05:56 EDT 2015 : enactedtemp.json : {
+  "bg": 182, 
+  "temp": "absolute", 
+  "snoozeBG": 155, 
+  "recieved": true, 
+  "rate": 4.075, 
+  "reason": "Eventual BG 155>120, temp 4.525<4.1U/hr", 
+  "eventualBG": 155, 
+  "timestamp": "2015-10-18T13:05:54.154589", 
+  "duration": 30, 
+  "tick": "+7"
+}
+Sun Oct 18 13:11:07 EDT 2015 : enactedtemp.json : {
+  "bg": 191, 
+  "temp": "absolute", 
+  "snoozeBG": 158, 
+  "recieved": true, 
+  "rate": 4.275, 
+  "reason": "Eventual BG 158>120, temp 4.075<4.3U/hr", 
+  "eventualBG": 158, 
+  "timestamp": "2015-10-18T13:11:06.723285", 
+  "duration": 30, 
+  "tick": "+9"
+}
+Sun Oct 18 21:16:31 EDT 2015 : enactedtemp.json : {
+  "bg": 206, 
+  "temp": "absolute", 
+  "snoozeBG": 221, 
+  "recieved": true, 
+  "rate": 3.75, 
+  "reason": "Eventual BG 221>120, temp 4.275<3.75U/hr", 
+  "eventualBG": 221, 
+  "timestamp": "2015-10-18T21:16:30.811151", 
+  "duration": 30, 
+  "tick": "+14"
+}
+Sun Oct 18 21:50:50 EDT 2015 : enactedtemp.json : {
+  "bg": 305, 
+  "temp": "absolute", 
+  "snoozeBG": 302, 
+  "recieved": true, 
+  "rate": 3.75, 
+  "reason": "max_iob 6, temp 3.75<3.75U/hr", 
+  "eventualBG": 302, 
+  "timestamp": "2015-10-18T21:50:49.978536", 
+  "duration": 30, 
+  "tick": "+12"
+}
+Sun Oct 18 22:26:17 EDT 2015 : enactedtemp.json : {
+  "bg": 379, 
+  "temp": "absolute", 
+  "snoozeBG": 394, 
+  "recieved": true, 
+  "rate": 3.75, 
+  "reason": "Eventual BG 246>120, temp 3.75<3.75U/hr", 
+  "eventualBG": 246, 
+  "timestamp": "2015-10-18T22:26:15.947903", 
+  "duration": 30, 
+  "tick": "+7"
+}
